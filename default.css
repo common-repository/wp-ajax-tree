@@ -1,0 +1,9 @@
+wp-ajax-tree-child
+{
+    padding-left: 10px;
+}
+#wp-ajax-tree .li
+{
+    color: red;
+}
+
